@@ -1,0 +1,20 @@
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.Form1.resources
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.Properties.Resources.resources
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\bin\Debug\VoTanLe_5951071048.exe.config
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\bin\Debug\VoTanLe_5951071048.exe
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\bin\Debug\VoTanLe_5951071048.pdb
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.exe
+C:\Users\dell\source\repos\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.pdb
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.csprojAssemblyReference.cache
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.Form1.resources
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.Properties.Resources.resources
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.csproj.GenerateResource.cache
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.exe
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\obj\Debug\VoTanLe_5951071048.pdb
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\bin\Debug\VoTanLe_5951071048.exe.config
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\bin\Debug\VoTanLe_5951071048.exe
+C:\Users\dell\Downloads\VoTanLe_5951071048 (1)\VoTanLe_5951071048\VoTanLe_5951071048\bin\Debug\VoTanLe_5951071048.pdb
